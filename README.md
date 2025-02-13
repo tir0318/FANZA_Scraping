@@ -33,7 +33,7 @@ pip install openpyxl
 # Usage
 
 ```bash
-git clone https://github.com/tir0318/Automatic_Instagram.git
+git clone https://github.com/tir0318/FANZA_Scraping.git
 ```
 
 # Note
