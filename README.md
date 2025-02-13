@@ -43,4 +43,4 @@ git clone https://github.com/tir0318/FANZA_Scraping.git
 # Author
 
 * tir0318
-* 個人pip li
+* 個人
